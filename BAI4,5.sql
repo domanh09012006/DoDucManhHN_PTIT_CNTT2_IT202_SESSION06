@@ -16,7 +16,7 @@ create table order_items (
 );
 
 insert into products values
-(1, 'ao', 200000),
+(1, 'ao', 500000),
 (2, 'quan', 500000),
 (3, 'giay ', 1200000),
 (4, 'mu', 150000),
